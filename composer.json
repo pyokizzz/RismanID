@@ -1,0 +1,29 @@
+{
+    "name": "pyokizzz/RismanID",
+    "description": "RismanID",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Panique",
+            "email": "panique@firemail.de"
+        },
+        {
+            "name": "John Dias",
+            "email": "joaodias@noctus.org"
+        },
+        {
+            "name": "Risman ID",
+            "email": "me@risman.id"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":
+    {
+        "psr-4":
+        {
+            "RismanID\\" : "application/"
+        }
+    }
+}
